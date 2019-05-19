@@ -42,3 +42,10 @@ body {
 #navbarDropdown {
     color: white;
 }
+.btn-outline-success {
+    color: #fdd051;
+}
+.btn {
+    border: #fdd051;
+}
+
