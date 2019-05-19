@@ -1,7 +1,12 @@
 #title {
     color: #02004e;
     font-size: 60px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#logoAndTitle {
+    background: white;
+    margin-left: 1px;
+    margin-right: 1px;
 }
 #leftBanner {
     color: #02004e;
@@ -30,4 +35,10 @@ body {
 .btn-primary { background-color: #02004e; }
 .card {
     border: none;
+}
+#leftOfBanner {
+    background: linear-gradient(to left, white 0%, #e2e2e2 100%);
+}
+#navbarDropdown {
+    color: white;
 }
