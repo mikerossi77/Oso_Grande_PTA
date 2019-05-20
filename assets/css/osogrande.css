@@ -1,6 +1,6 @@
 #title {
     color: #02004e;
-    font-size: 60px;
+    /* font-size: 60px; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #logoAndTitle {
@@ -10,10 +10,11 @@
 }
 #leftBanner {
     color: #02004e;
-    font-size: 50px;
+    /* font-size: 50px; */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-top: 60px;
     padding-bottom: 30px;
+    background: linear-gradient(to left, white 0%, #e2e2e2 100%);
 }
 body {
     background: linear-gradient(to bottom, #f7f8f8 0%, #bebebe 100%);
@@ -36,9 +37,7 @@ body {
 .card {
     border: none;
 }
-#leftOfBanner {
-    background: linear-gradient(to left, white 0%, #e2e2e2 100%);
-}
+
 #navbarDropdown {
     color: white;
 }
