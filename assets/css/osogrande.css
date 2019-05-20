@@ -3,6 +3,10 @@
     /* font-size: 60px; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+#bear {
+    width: 225px;
+}
+
 #logoAndTitle {
     background: white;
     margin-left: 1px;
@@ -47,4 +51,5 @@ body {
 .btn {
     border: #fdd051;
 }
+
 
